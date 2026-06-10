@@ -1,0 +1,6 @@
+{
+  "name": "Ibbani Cafe",
+  "description": "Where Every Sip Tells a Story - Bengaluru's premier coffee and dessert experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
